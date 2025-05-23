@@ -37,7 +37,7 @@ Aplikasi ini merupakan aplikasi kategori dan pemesanan sepatu.
 ![Home Pemesanan](screenshots/Home_Pemesanan.png)  
 *Halaman pemesanan*
 
-![Order Page](screenshots/Ordeer_Page.png)  
+![Order Page](screenshots/Order_Page.png)  
 *Halaman pembayaran produk*
 
 ![Home Selesai](screenshots/Home_Selesai.png)  

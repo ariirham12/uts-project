@@ -1,16 +1,48 @@
-# project_uts
+# 🕰️ Watch Order App - UTS Pemrograman Mobile
 
-A new Flutter project.
+## 👤 Informasi Mahasiswa
 
-## Getting Started
+- **Nama**: [Ari Setiawan]
+- **NIM**: [2022804148]
+- **Prodi**: [Sistem Informasi 6A (pagi)]
+- **Semester**: [6]
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📝 Nama Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplikasi Flutter ini dibuat sebagai Ujian Tengah Semester (UTS) untuk mata
+kuliah Mobile Programming.
+Aplikasi ini merupakan aplikasi kategori dan pemesanan sepatu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 Deskripsi  Aplikasi
+
+> Aplikasi pemesanan sepatu yang menampilkan kategori produk sepatu dengan tampilan sederhana dan modern.
+> Pengguna dapat melihat berbagai pilihan sepatu, memilih **merek sepatu** dan **ukuran**, lalu melakukan pemesanan.  
+> Aplikasi ini juga menyediakan dua metode pembayaran: **Cash on Delivery (COD)** dan **Transfer Bank**.
+
+## 📸 Screenshot Aplikasi
+
+> ✨ *Berikut adalah beberapa tampilan dari aplikasi Watch Order App:* ✨
+
+![Cover Page](screenshots/tampilan.png)  
+*Tampilan halaman saat membuka aplikasi*
+
+![Home Page - All](screenshots/produk.png)  
+*Tampilan halaman utama dengan menampilkan semua kategori sepatu*
+
+![Home Page - Man](screenshots/produk.png)  
+*Tampilan semua produk sepatu*
+
+![Home Page - Woman](screenshots/ukuran.png)  
+*Tampilan pemilihan ukuran sepatu*
+
+![Detail Page](screenshots/pesan.png)  
+*Halaman pemesanan*
+
+![Order Page](screenshots/metode pembayaran.png)  
+*Halaman pembayaran produk*
+
+![Order Page](screenshots/selesai pemesanan.png)  
+*Halaman selesai pemesanan*
+

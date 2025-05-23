@@ -25,24 +25,21 @@ Aplikasi ini merupakan aplikasi kategori dan pemesanan sepatu.
 
 > ✨ *Berikut adalah beberapa tampilan dari aplikasi Watch Order App:* ✨
 
-![Cover Page](screenshots/tampilan.png)  
+![Cover Page](screenshots/Cover Page.png)  
 *Tampilan halaman saat membuka aplikasi*
 
-![Home Page - All](screenshots/produk.png)  
-*Tampilan halaman utama dengan menampilkan semua kategori sepatu*
+![Home Page](screenshots/Home Page.png)  
+*Tampilan halaman utama dengan menampilkan semua produk sepatu*
 
-![Home Page - Man](screenshots/produk.png)  
-*Tampilan semua produk sepatu*
-
-![Home Page - Woman](screenshots/ukuran.png)  
+![Home Ukuran](screenshots/Home Ukuran.png)  
 *Tampilan pemilihan ukuran sepatu*
 
-![Detail Page](screenshots/pesan.png)  
+![Home Pemesanan](screenshots/Home Pemesanan.png)  
 *Halaman pemesanan*
 
-![Order Page](screenshots/metode pembayaran.png)  
+![Order Page](screenshots/Ordeer Page.png)  
 *Halaman pembayaran produk*
 
-![Order Page](screenshots/selesai pemesanan.png)  
+![Home Selesai](screenshots/Home Selesai.png)  
 *Halaman selesai pemesanan*
 
